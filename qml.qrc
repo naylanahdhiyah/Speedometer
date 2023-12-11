@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Asset/ds_digital/DIGITAL.TXT</file>
+        <file>Asset/ds_digital/DS-DIGI.TTF</file>
+        <file>Asset/ds_digital/DS-DIGIB.TTF</file>
+        <file>Asset/ds_digital/DS-DIGII.TTF</file>
+        <file>Asset/ds_digital/DS-DIGIT.TTF</file>
+        <file>Asset/battery.png</file>
+        <file>Asset/bluegrade.png</file>
+        <file>Asset/darkleft.png</file>
+        <file>Asset/darkredup.png</file>
+        <file>Asset/darkright.png</file>
+        <file>Asset/darkterang.png</file>
+        <file>Asset/DesignUI_Speedometer.svg</file>
+        <file>Asset/left.png</file>
+        <file>Asset/linggrad.png</file>
+        <file>Asset/outlinebaterai.png</file>
+        <file>Asset/outlinerpm.png</file>
+        <file>Asset/outlinggrad.png</file>
+        <file>Asset/redup.png</file>
+        <file>Asset/right.png</file>
+        <file>Asset/temperature.png</file>
+        <file>Asset/terang.png</file>
+        <file>Asset/BackgroundProp.png</file>
+        <file>Asset/dSign.png</file>
+        <file>Asset/lSign.png</file>
+        <file>Asset/nSign.png</file>
+        <file>Asset/pSign.png</file>
+        <file>Asset/rSign.png</file>
+        <file>Asset/sSign.png</file>
+        <file>Asset/TempMesin.png</file>
+        <file>Asset/Cuaca.png</file>
+    </qresource>
+</RCC>
